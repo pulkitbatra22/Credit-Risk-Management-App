@@ -13,3 +13,7 @@ This app predicts if an applicant will be approved for a credit card or not. Eac
 ![image](https://github.com/user-attachments/assets/a403aad6-4e3a-4ff5-9953-ea36bf5f8cb8)
 
 ![image](https://github.com/user-attachments/assets/b3e0b6bd-3a97-4156-9731-004875661cb7)
+
+## The App
+
+![image](https://github.com/user-attachments/assets/3677e078-3455-470d-ad84-e3a88989a903)
