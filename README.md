@@ -5,3 +5,7 @@ This app predicts if an applicant will be approved for a credit card or not. Eac
 
 ## Data source
 [Kaggle credit card approval prediction](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction)
+
+## Quick glance at the results
+
+![credit1](https://github.com/user-attachments/assets/d1c59fdc-055f-47c1-aeea-e5962266f053)
